@@ -1,17 +1,13 @@
 {
-  "applinks": {
-      "details": [
-           {
-             "appIDs": [ "2KG2XSW87X.kr.co.trism.testProject" ],
-             "components": [
-               {
-                  "/": "*",
-               }
-             ]
-           }
-       ]
-   },
-   "webcredentials": {
-      "apps": [ "2KG2XSW87X.kr.co.trism.testProject" ]
-   }
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "2KG2XSW87X.kr.co.trism.testProject",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
 }
