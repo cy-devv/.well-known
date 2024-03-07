@@ -3,12 +3,8 @@
   "apps": [],
   "details": [
       {      	   
-        "appIDs": [ "2KG2XSW87X.kr.co.trism.testProject" ],
-        "components": [
-            {
-                "/": "*"
-            }
-        ]
+        "appID": "2KG2XSW87X.kr.co.trism.testProject",
+        "paths": ["*"]
       }
     ]
   }
