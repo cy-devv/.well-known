@@ -1,13 +1,12 @@
 {
-  applinks: {
-    details: [
+  "applinks": {
+  "apps": [],
+  "details": [
       {      	   
-        appIDs: [
-        	"2KG2XSW87X.kr.co.trism.testProject"
-        ],
-        components: [
+        "appIDs": [ "2KG2XSW87X.kr.co.trism.testProject" ],
+        "components": [
             {
-                /: "*"
+                "/": "*"
             }
         ]
       }
