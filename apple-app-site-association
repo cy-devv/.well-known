@@ -1,0 +1,16 @@
+{
+  applinks: {
+    details: [
+      {      	   
+        appIDs: [
+        	"HLJCG277QK.kr.co.trism.franchise1"
+        ],
+        components: [
+            {
+                /: "*"
+            }
+        ]
+      }
+    ]
+  }
+}
